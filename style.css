@@ -42,3 +42,14 @@ h1 {
     color: white;
     border-radius: 15px;
 }
+
+.health-food-aboutMe {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+
+#healthFood img {
+    width: 40%;
+    padding-left: 180px;
+    padding-top: 50px;
+}
