@@ -87,16 +87,25 @@ h2 {
 
 .follower-team {
     display: flex;
-    border: 1px solid blanchedalmond;
-    border-radius: 10px;
-    margin-left: 95px;
-    margin-right: 70px;
+    padding-left: 25px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+
 }
 
 .follow-social {
-    padding-left: 195px;
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
     text-align: center;
-    margin: 10px;
+    border-left: 5px solid blueviolet;
+}
+
+#borderColor {
+    border-left: 5px solid greenyellow;
 }
 
 .foodhead {
