@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.health-food-top {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+
+#health {
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.imagine-text {
+    font-size: 20px;
+}
+
+.health-food {
+    width: 50%;
+    margin-left: 20px;
+}
+
+.health-food img {
+    width: 80%;
+}
+
+.orange-color {
+    color: orangered;
+}
+
+.order-now {
+    padding: 10px 20px;
+    background-image: linear-gradient(tomato, orange);
+    width: 120px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
